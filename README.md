@@ -1,4 +1,4 @@
-## Hello, I'm Gustavo Scafeli <img align="center" alt="Rafa-yoda" height="60" width="80" src="https://media.tenor.com/images/5921a2d48c5bd58023e4432fbb85d88c/tenor.gif">
+## Hello, I'm Gustavo Scafeli :)
 <a href="https://github.com/Scafeli">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Scafeli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Scafeli&layout=compact&langs_count=8&theme=dracula"/>
